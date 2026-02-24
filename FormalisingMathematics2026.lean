@@ -103,3 +103,4 @@ import FormalisingMathematics2026.Solutions.Section04sets.Sheet5
 import FormalisingMathematics2026.Solutions.Section04sets.Sheet6
 
 import FormalisingMathematics2026.Projects.Project1
+import FormalisingMathematics2026.Projects.Project2
